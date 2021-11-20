@@ -1,0 +1,4 @@
+git@gitlab.com:cloud_arv/arv-core/data-platform-lambda/aws-layer.git
+git@gitlab.com:cloud_arv/arv-core/data-platform-lambda/aws-layer.git
+git@gitlab.com:cloud_arv/arv-core/data-platform-pipeline/shapefile-migrate.git
+git@gitlab.com:cloud_arv/arv-core/data-platform-lambda/farm-pipeline.git

@@ -1,0 +1,5 @@
+git@gitlab.com:cloud_arv/arv-core/data-platform-lambda/aws-layer.git
+git@gitlab.com:cloud_arv/arv-core/data-platform-lambda/db-layer.git
+git@gitlab.com:cloud_arv/arv-core/data-platform-lambda/pipeline-trigger.git
+git@gitlab.com:cloud_arv/arv-core/data-platform-pipeline/shapefile-migrate.git
+git@gitlab.com:cloud_arv/arv-core/data-platform-pipeline/step-function.git
